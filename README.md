@@ -1,2 +1,2 @@
 # CommonCoin
-CommonCoin Offical Repo
+CommonCoin Offical Page
